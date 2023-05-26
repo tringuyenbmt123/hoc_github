@@ -1,1 +1,2 @@
-code cua thang test
+
+code của thang register
